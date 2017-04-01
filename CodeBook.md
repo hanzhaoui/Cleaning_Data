@@ -21,7 +21,7 @@
 * tidy: the second independent tidy data set
 8. Write the tidy data set to a file (tidy.txt)
 
-## List of Variables
+## List of Variables of Tidy Data Set (tidy.txt)
 * Subject
 * Activity
 * TimeBodyAccMeanX
